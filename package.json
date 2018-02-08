@@ -1,0 +1,26 @@
+{
+  "name": "bot-discord-jpp",
+  "version": "1.0.0",
+  "description": "Bot Discord, merci Jean Pierre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soupic/botDiscordJpp.git"
+  },
+  "keywords": [
+    "Bot",
+    "Discord"
+  ],
+  "author": "Soupic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Soupic/botDiscordJpp/issues"
+  },
+  "homepage": "https://github.com/Soupic/botDiscordJpp#readme",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  }
+}
